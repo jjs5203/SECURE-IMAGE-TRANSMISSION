@@ -1,0 +1,91 @@
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/images.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/images.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Pictures/WhatsApp Image 2024-04-03 at 01.54.58_d24034c3.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Pictures/WhatsApp Image 2024-04-03 at 01.54.58_d24034c3.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Pictures/WhatsApp Image 2024-04-03 at 01.54.58_d24034c3.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/1.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/1.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/1.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/1.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/1.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/1.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/images.jpg
+PSNR: 4.1395 dB
+SSIM: 0.047517
+Result: FAIL
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/2.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
+==== Integrity report ====
+Original: C:/Users/hp/Desktop/secureimage/photos/3.jpg
+Decrypted: C:/Users/hp/Desktop/secureimage/output.jpg
+PSNR: 361.2020 dB
+SSIM: 1.000000
+Result: PASS
+
